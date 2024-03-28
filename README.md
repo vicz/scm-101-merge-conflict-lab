@@ -1,6 +1,6 @@
 # SCM 101: Introduction to Git (AE, DE, DO, CNE)
 ## Description
-This is an introductory course that covers the fundamentals of Git. The course is suitable for IT professionals interested in learning about Git to enhance their software development practices.
+This is an introductory course that covers the fundamentals of Git. Participants will learn about version control, the core concepts of git, basic git workflows, branching, remotes and merge requests. The course is suitable for IT professionals interested in leaning about Git to enhance their software development practices.
 
 ## Duration
 2 Days
